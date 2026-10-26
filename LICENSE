@@ -1,0 +1,5 @@
+The results and transcripts in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Credit: Yap (2026). On-device speech recognition benchmark: 25 languages [Data set]. https://yapapp.cc/data/on-device-asr-benchmark
+
+The reference sentences are from FLEURS (Conneau et al., Google, 2022), licensed CC BY 4.0: https://huggingface.co/datasets/google/fleurs
