@@ -10,7 +10,7 @@ Word error rates of three speech recognition engines that run **entirely on a Ma
 
 The six languages all three engines support are English, German, French, Spanish, Italian and Portuguese. Compare languages row by row below. Measured on an Apple M2 Pro with 16 GB of memory, macOS 26.6.2, 2026-10-19 (last updated 2026-10-21).
 
-Interactive version with charts and every fact traced: **[yapapp.cc/data/on-device-asr-benchmark](https://yapapp.cc/data/on-device-asr-benchmark)**.
+Interactive version with charts and every fact traced: **[yapapp.cc/data/on-device-asr-benchmark](https://yapapp.cc/data/on-device-asr-benchmark)**. Parakeet v3 against Whisper, language by language: **[yapapp.cc/parakeet-vs-whisper](https://yapapp.cc/parakeet-vs-whisper)**.
 
 ## Word error rate by language
 
@@ -85,6 +85,11 @@ Scores the text as a reader sees it: capital letters count, and each sentence ma
 ## More tests from the same lab
 
 Accents (EdAcc), background noise, Bluetooth headset audio, Parkinson's speech and long dictation, each with its data: [yapapp.cc/data](https://yapapp.cc/data).
+
+## Elsewhere
+
+- Write-up with the results table: [DEV Community](https://dev.to/yapapp/parakeet-v3-vs-whisper-vs-apples-on-device-model-in-25-languages-every-transcript-published-3bjo)
+- The same files as a Kaggle dataset: [kaggle.com/datasets/yapappcc/on-device-asr-parakeet-vs-whisper-vs-apple](https://www.kaggle.com/datasets/yapappcc/on-device-asr-parakeet-vs-whisper-vs-apple)
 
 ## License and citation
 
